@@ -1,1 +1,10 @@
-# Owen871.github.io
+# Owen Gagnon
+
+## Courses
+
+- CSC 101 - **Introduction to Computing**
+
+## Projects
+
+## About Me
+
